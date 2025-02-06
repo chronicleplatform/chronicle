@@ -1,0 +1,17 @@
+{
+    "name": "chronicle/chronicle",
+    "description": "The Chronicle Publishing Platform",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chronicle\\Chronicle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tony Lea",
+            "email": "tony@devdojo.com"
+        }
+    ],
+    "require": {}
+}
